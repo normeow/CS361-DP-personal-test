@@ -1,2 +1,3 @@
 Welcome to course «CS361 Design patterns»!
 file changed
+changed 2
